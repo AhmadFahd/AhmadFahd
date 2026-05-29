@@ -14,7 +14,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadalfahd/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0a0f1c?style=for-the-badge&logo=vercel&logoColor=white)](https://aalhowimel.com)
-[![CV](https://img.shields.io/badge/View%20CV-4A90E2?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/AhmadFahd/cv-react)
 [![Location](https://img.shields.io/badge/Riyadh,%20SA-00A859?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
@@ -91,34 +90,3 @@ Passionate about building products that make a difference, mentoring engineers, 
 
 </div>
 
----
-
-## 🚀 Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/AhmadFahd/cv-react">📄 cv-react</a></h3>
-      <p>Interactive CV built with React + TypeScript. Responsive, printable, and live at <a href="https://aalhowimel.com">aalhowimel.com</a></p>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/AhmadFahd/eventdemo">⚡ eventdemo</a></h3>
-      <p>Event-driven architecture demo in Java, showcasing asynchronous patterns and system design principles.</p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a5c,100:0a0f1c&height=80&section=footer" width="100%"/>
-
-<sub>
-  <a href="https://aalhowimel.com">aalhowimel.com</a> · Riyadh, Saudi Arabia · Open to opportunities
-</sub>
-
-</div>
