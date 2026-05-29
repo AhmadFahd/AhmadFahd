@@ -76,14 +76,6 @@ Passionate about building products that make a difference, mentoring engineers, 
 
 ---
 
-## 🎓 Education
-
-| 🎓 Degree | 🏫 Institution | 📅 Period |
-|----------|---------------|---------|
-| **B.Sc. Computer Science** (GPA 4.32 / 5) | Qassim University — College of Computer | 2012 – 2018 |
-
----
-
 ## 📊 GitHub Activity
 
 <div align="center">
