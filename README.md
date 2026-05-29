@@ -22,48 +22,102 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Lead Software Engineer** with deep experience in backend architecture, microservices, and full-stack delivery. I design and build systems that prioritize **reliability**, **scalability**, and clean engineering — from API design all the way to production deployment.
+Riyadh-based **Lead Software Engineer** with **7+ years** building products that hold up under load — multi-tenant SaaS, secure platforms, and design systems teams enjoy using.
 
-Passionate about building products that make a difference, mentoring engineers, and constantly raising the bar on code quality and system design.
+Equally at home shaping architecture, mentoring engineers, and shipping the last 10% that makes a product feel right.
 
 ---
 
 ## 🏢 Experience
 
-> ✏️ *Replace with your actual roles from [aalhowimel.com](https://aalhowimel.com)*
-
 | 💼 Role | 🏢 Company | 📅 Period |
 |--------|-----------|---------|
-| **Lead Software Engineer** | *Your Company* | *Year – Present* |
-| Senior Software Engineer | *Company* | *Year – Year* |
-| Software Engineer | *Company* | *Year – Year* |
+| **Senior Product Engineer** | CNTXT | 2025 – Present |
+| Technical Lead | Saudi Information Technology Company (SITE) | 2024 – 2025 |
+| Engineering Consultant | Saudi Information Technology Company (SITE) | 2023 – 2024 |
+| Senior Engineer | Saudi Information Technology Company (SITE) | 2021 – 2023 |
+| Assistant Engineer | Elm | 2019 – 2021 |
+| Tajseer Program Trainee | Elm | 2018 – 2019 |
+
+<details>
+<summary>📌 <b>Role highlights</b></summary>
+
+<br/>
+
+**Senior Product Engineer · CNTXT** · *2025 – Present*
+- Building a multi-tenant SaaS platform on GCP with a Node.js NX monorepo.
+- Driving tenant isolation, SSO, and workflow-driven features at enterprise scale.
+- Applying clean architecture and AI-assisted tooling to ship reliably and fast.
+
+**Technical Lead · SITE** · *2024 – 2025*
+- Led a cybersecurity project end-to-end.
+- Aligned integration with cross-functional teams.
+- Owned release and sprint planning.
+
+**Engineering Consultant · SITE** · *2023 – 2024*
+- Developed and maintained full-stack apps with Spring Boot and React.
+- Managed concurrent NCA, CRM, data-viz, and design-system projects.
+- Owned team management, release planning, technical decisions, and prod debugging.
+- Mentored colleagues and contributed to multiple department initiatives.
+
+**Senior Engineer · SITE** · *2021 – 2023*
+- Specialized in front-end and full-stack with ReactJS, NextJS, and Spring Boot.
+- Worked on NCA Academy, GCF, the SITE template, and other NCA projects.
+- Implemented SSR with NextJS — improved page load times and SEO.
+
+**Assistant Engineer · Elm** · *2019 – 2021*
+- Built full-stack apps with Spring Boot and Angular.
+- Contributed across HR, Auctions, Data-viz, and the GACA project.
+- Managed deployments on Windows and Linux servers.
+
+**Tajseer Program Trainee · Elm** · *2018 – 2019*
+- Software development lifecycle (SDLC) and requirements analysis.
+- Spring Boot / Angular development, test cases, and deployment.
+
+</details>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend & Architecture**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=flat-square&logo=apachekafka&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
-**Infrastructure & DevOps**
+**Backend**
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Nx](https://img.shields.io/badge/Nx%20Monorepo-143055?style=flat-square&logo=nx&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+**Cloud & Ops**
+
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Practice**
+
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-0a0f1c?style=flat-square)
+![Mentoring](https://img.shields.io/badge/Mentoring-0a0f1c?style=flat-square)
+![Release Planning](https://img.shields.io/badge/Release%20Planning-0a0f1c?style=flat-square)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0a0f1c?style=flat-square&logo=tryhackme&logoColor=white)
+
+---
+
+## 🎓 Education
+
+| 🎓 Degree | 🏫 Institution | 📅 Period |
+|----------|---------------|---------|
+| **B.Sc. Computer Science** (GPA 4.32 / 5) | Qassim University — College of Computer | 2012 – 2018 |
 
 ---
 
