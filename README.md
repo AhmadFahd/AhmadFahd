@@ -55,17 +55,6 @@ Currently based in **Riyadh, Saudi Arabia**.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-<!-- ✏️ Add or remove badges to match your actual stack -->
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadFahd&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
-
-</div>
 
 ---
 
