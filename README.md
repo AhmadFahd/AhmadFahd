@@ -22,9 +22,9 @@
 
 ## 👨‍💻 About Me
 
-Riyadh-based **Lead Software Engineer** with **7+ years** building products that hold up under load — multi-tenant SaaS, secure platforms, and design systems teams enjoy using.
+I'm a **Lead Software Engineer** with deep experience in backend architecture, microservices, and full-stack delivery. I design and build systems that prioritize **reliability**, **scalability**, and clean engineering — from API design all the way to production deployment.
 
-Equally at home shaping architecture, mentoring engineers, and shipping the last 10% that makes a product feel right.
+Passionate about building products that make a difference, mentoring engineers, and constantly raising the bar on code quality and system design.
 
 ---
 
