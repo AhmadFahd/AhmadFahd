@@ -80,11 +80,6 @@ Passionate about building products that make a difference, mentoring engineers, 
 
 <div align="center">
 
-<a href="https://github.com/AhmadFahd">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AhmadFahd&show_icons=true&theme=dark&bg_color=0d1117&title_color=4A90E2&icon_color=4A90E2&text_color=c9d1d9&border_color=30363d&count_private=true&include_all_commits=true&hide_border=false" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadFahd&layout=compact&theme=dark&bg_color=0d1117&title_color=4A90E2&text_color=c9d1d9&border_color=30363d&hide_border=false" />
-</a>
-
 <br/>
 
 <a href="https://github.com/AhmadFahd">
