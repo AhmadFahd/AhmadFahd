@@ -30,40 +30,49 @@ Passionate about building products that make a difference, mentoring engineers, 
 
 ## 🏢 Experience
 
-> ✏️ *Replace with your actual roles from [aalhowimel.com](https://aalhowimel.com)*
-
 | 💼 Role | 🏢 Company | 📅 Period |
 |--------|-----------|---------|
-| **Lead Software Engineer** | *Your Company* | *Year – Present* |
-| Senior Software Engineer | *Company* | *Year – Year* |
-| Software Engineer | *Company* | *Year – Year* |
+| **Senior Product Engineer** | CNTXT | 2025 – Present |
+| Technical Lead | Saudi Information Technology Company (SITE) | 2024 – 2025 |
+| Engineering Consultant | Saudi Information Technology Company (SITE) | 2023 – 2024 |
+| Senior Engineer | Saudi Information Technology Company (SITE) | 2021 – 2023 |
+| Assistant Engineer | Elm | 2019 – 2021 |
+| Tajseer Program Trainee | Elm | 2018 – 2019 |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend & Architecture**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=flat-square&logo=apachekafka&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
-**Infrastructure & DevOps**
+**Backend**
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Nx](https://img.shields.io/badge/Nx%20Monorepo-143055?style=flat-square&logo=nx&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+**Cloud & Ops**
+
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Practice**
+
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-0a0f1c?style=flat-square)
+![Mentoring](https://img.shields.io/badge/Mentoring-0a0f1c?style=flat-square)
+![Release Planning](https://img.shields.io/badge/Release%20Planning-0a0f1c?style=flat-square)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0a0f1c?style=flat-square&logo=tryhackme&logoColor=white)
 
 ---
 
