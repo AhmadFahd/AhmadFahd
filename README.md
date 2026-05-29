@@ -71,18 +71,6 @@ Currently based in **Riyadh, Saudi Arabia**.
 
 ---
 
-## Projects
-
-### [cv-react](https://github.com/AhmadFahd/cv-react)
-Interactive CV built with React — view it live at [aalhowimel.com](https://aalhowimel.com)
-
-### [eventdemo](https://github.com/AhmadFahd/eventdemo)
-Event-driven demo project in Java
-
-<!-- ✏️ Add more projects here as you publish them -->
-
----
-
 <div align="center">
 <sub>
   <a href="https://aalhowimel.com">aalhowimel.com</a> · Riyadh, Saudi Arabia
