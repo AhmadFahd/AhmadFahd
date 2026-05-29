@@ -39,43 +39,6 @@ Passionate about building products that make a difference, mentoring engineers, 
 | Assistant Engineer | Elm | 2019 – 2021 |
 | Tajseer Program Trainee | Elm | 2018 – 2019 |
 
-<details>
-<summary>📌 <b>Role highlights</b></summary>
-
-<br/>
-
-**Senior Product Engineer · CNTXT** · *2025 – Present*
-- Building a multi-tenant SaaS platform on GCP with a Node.js NX monorepo.
-- Driving tenant isolation, SSO, and workflow-driven features at enterprise scale.
-- Applying clean architecture and AI-assisted tooling to ship reliably and fast.
-
-**Technical Lead · SITE** · *2024 – 2025*
-- Led a cybersecurity project end-to-end.
-- Aligned integration with cross-functional teams.
-- Owned release and sprint planning.
-
-**Engineering Consultant · SITE** · *2023 – 2024*
-- Developed and maintained full-stack apps with Spring Boot and React.
-- Managed concurrent NCA, CRM, data-viz, and design-system projects.
-- Owned team management, release planning, technical decisions, and prod debugging.
-- Mentored colleagues and contributed to multiple department initiatives.
-
-**Senior Engineer · SITE** · *2021 – 2023*
-- Specialized in front-end and full-stack with ReactJS, NextJS, and Spring Boot.
-- Worked on NCA Academy, GCF, the SITE template, and other NCA projects.
-- Implemented SSR with NextJS — improved page load times and SEO.
-
-**Assistant Engineer · Elm** · *2019 – 2021*
-- Built full-stack apps with Spring Boot and Angular.
-- Contributed across HR, Auctions, Data-viz, and the GACA project.
-- Managed deployments on Windows and Linux servers.
-
-**Tajseer Program Trainee · Elm** · *2018 – 2019*
-- Software development lifecycle (SDLC) and requirements analysis.
-- Spring Boot / Angular development, test cases, and deployment.
-
-</details>
-
 ---
 
 ## 🛠️ Tech Stack
