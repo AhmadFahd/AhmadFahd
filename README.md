@@ -65,8 +65,6 @@ Currently based in **Riyadh, Saudi Arabia**.
 
 ![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadFahd&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadFahd&layout=compact&theme=default&hide_border=true)
-
 </div>
 
 ---
