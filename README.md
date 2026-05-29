@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadalfahd/)
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=vercel&logoColor=white)](https://aalhowimel.com)
-[![CV](https://img.shields.io/badge/CV-View_Online-4A90E2?style=flat)](https://github.com/AhmadFahd/cv-react)
 
 </div>
 
